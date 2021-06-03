@@ -421,7 +421,7 @@ main {
 .main-plans--slide-container::-webkit-scrollbar-thumb{
     background-color: var(--bitcoin-orange);
 }
-.main-plans--left-arrow {
+/* .main-plans--left-arrow {
     position: absolute;
     width: 7px;
     height: 11px;
@@ -444,7 +444,7 @@ main {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; 
-}
+} */
 .main-plans--card {
     position: relative;
     scroll-snap-align: center;
