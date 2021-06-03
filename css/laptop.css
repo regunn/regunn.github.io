@@ -1,0 +1,9 @@
+.main-product-cards--container {
+    width: 930px;
+}
+.main-wildcard--container {
+    background-image: url('../assets/img/bitcoinbaby4x.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    height: 70vh;
+}
